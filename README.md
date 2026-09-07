@@ -23,3 +23,20 @@ brew install speakrate
 | Cask | Description |
 |------|-------------|
 | [`speakrate`](Casks/speakrate.rb) | Read selected text aloud with live speed control ([repo](https://github.com/augustose/SpeakRate)) |
+
+## Available formulae
+
+| Formula | Description |
+|---------|-------------|
+| [`godev`](Formula/godev.rb) | Navigate 100+ development projects in seconds with fuzzy search ([repo](https://github.com/augustose/godev)) |
+
+```sh
+brew install augustose/tap/godev
+```
+
+> Migrating from the old `augustose/godev` tap?
+>
+> ```sh
+> brew uninstall godev && brew untap augustose/godev
+> brew trust augustose/tap && brew install augustose/tap/godev
+> ```
