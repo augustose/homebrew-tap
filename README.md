@@ -4,7 +4,10 @@ Homebrew tap for [augustose](https://github.com/augustose)'s apps.
 
 ## Usage
 
+Recent Homebrew versions require trusting third-party taps first:
+
 ```sh
+brew trust augustose/tap
 brew install augustose/tap/speakrate
 ```
 
