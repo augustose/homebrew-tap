@@ -23,6 +23,7 @@ brew install speakrate
 | Cask | Description |
 |------|-------------|
 | [`speakrate`](Casks/speakrate.rb) | Read selected text aloud with live speed control ([repo](https://github.com/augustose/SpeakRate)) |
+| [`soundswitcher`](Casks/soundswitcher.rb) | Switch your entire audio setup — speaker and microphone — with one keystroke ([repo](https://github.com/augustose/SoundSwitcher)) |
 
 ## Available formulae
 

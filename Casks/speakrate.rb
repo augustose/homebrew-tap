@@ -1,6 +1,6 @@
 cask "speakrate" do
-  version "1.1.0"
-  sha256 "e3dca496bee8c7de057cbc9ebcf12024eda8ed9448ce1539609961a4d918c4e9"
+  version "1.2.0"
+  sha256 "2760e9d600f945325aa2effb695d7bb26d2f5b8f294354e1e69e98dc6009a967"
 
   url "https://github.com/augustose/SpeakRate/releases/download/v#{version}/SpeakRate-v#{version}-arm64.zip"
   name "SpeakRate"
